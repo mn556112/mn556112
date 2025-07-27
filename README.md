@@ -1,6 +1,6 @@
 <img width="1235" height="500" alt="LDEXbanner" src="https://github.com/user-attachments/assets/7c68d985-29cf-4d80-9611-d64009851ab7" />
 
-<h1 align="center"> Welcome To Dex's GitHub! </h1>
+<h1 align="center"> Welcome To Dex's Profile! </h1>
 <h3 align="center">🚀 Skills 🚀</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp 
